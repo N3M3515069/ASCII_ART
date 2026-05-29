@@ -20,7 +20,7 @@ def convert(path, width, color):
                 "result.gif",
                 save_all=True,
                 append_images=frames_list[1:],
-                duration=50, #1000/20 = 50ms = 20fps
+                duration=66, #1000/15 = 66ms = 15fps
                 loop=0  #infinite loop
                 )
     #if not a gif or png/jpg       
