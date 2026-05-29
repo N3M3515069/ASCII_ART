@@ -23,11 +23,20 @@ Edit the path in `main.py` and run:
 python main.py
 ```
 
+## Color modes
+- `color="gs"` — grayscale, white characters on black canvas
+- `color="rgb"` — colored characters matching the source image pixels
+  
 ## Sample outputs
 
-### Medusa (PNG)
-![Medusa](assets/Medusa.png)
+### Flower - Grayscale (PNG)
+![Flower GS](assets/flower_gs.png)
 
+### Flower - Color (PNG)
+![Flower RGB](assets/flower_rgb.png)
 
-### Spinning Doughnut (GIF)
-![Doughnut](assets/doughnut_.gif)
+### Sharingan - Grayscale (GIF)
+![Sharingan GS](assets/sharingan_gs.gif)
+
+### Sharingan - Color (GIF)
+![Sharingan RGB](assets/sharingan_rgb.gif)
