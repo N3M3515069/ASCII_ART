@@ -28,8 +28,6 @@ python main.py
 ### Medusa (PNG)
 ![Medusa](assets/Medusa.png)
 
-### Power Ranger (PNG)
-![Ranger](assets/ranger.png)
 
 ### Spinning Doughnut (GIF)
-![Doughnut](assets/doughnut_gif)
+![Doughnut](assets/doughnut_.gif)
